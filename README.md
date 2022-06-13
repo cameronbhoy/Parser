@@ -6,7 +6,7 @@ This program takes in an unformatted piece of the class's code and parses it.  I
 
 The language's syntax, in EBNF, is as follows:
 
-<program> := <function> { <function> }  
+\<program\> := <function> { <function> }  
 
 <function> := <typelist> IDEN LPAREN [<param>] RPAREN LBRACE <statements> RBRACE 
 
