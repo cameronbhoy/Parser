@@ -1,0 +1,12 @@
+type hello(type name , hheh eheh, sdfd sdffsd)
+{
+ee
+}
+type hello(type name , hheh eheh, sdfd sdffsd)
+{
+ff
+}
+type hello(type name )
+{
+gg
+}
